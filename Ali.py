@@ -78,7 +78,7 @@ Poetry   : Zindagi tu Muhtasar ho ja
 def tik():
 	titik = [".   ","..  ","... "]
 	for o in titik:
-		print("\r[●] Loging In "+o),;sys.stdout.flush();time.sleep(1)
+		print("\r[●] Loging In "+o),sys.stdout.flush();time.sleep(1)
 
 
 back = 0
