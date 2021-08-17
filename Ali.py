@@ -67,10 +67,10 @@ logo="""
 
 
 --------------------------------------------------
-➣ Auther   : Z@lim
-➣ GitHub   : https://github.com/Za-lim
-➣ YouTube  : Waqt Mila Tu Sochay gy
-➣ Poetry   : Zindagi tu Muhtasar ho ja 
+Auther   : Z@lim
+GitHub   : https://github.com/Za-lim
+YouTube  : Waqt Mila Tu Sochay gy
+Poetry   : Zindagi tu Muhtasar ho ja 
               Shab e Ghum Muhtasar Nhii Hoti    
 --------------------------------------------------
                                 """
